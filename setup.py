@@ -6,7 +6,7 @@ Templatetags to add 'here' classes to appropriate elements.
 
 """
 
-version = '0.0.2.dev0'
+version = '0.0.2'
 
 setup(
     name='django-highlight-here',
